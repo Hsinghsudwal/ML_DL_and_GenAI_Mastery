@@ -1,9 +1,11 @@
 pandas
 numpy
+matplotlib
+seaborn
 scikit-learn
 jupyter
 ipython
 ipykernel
 notebook
-matplotlib
-seaborn
+
+
